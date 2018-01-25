@@ -8,4 +8,5 @@
   * [不同语言的编码规范](how_good_style/various_lang_style.md)
   * [代码格式化和工具](how_good_style/lang_format_tool.md)
 * [附录](appendix/README.md)
+  * [代码中常见英文单词的缩写](appendix/common_abbr.md)
   * [参考资料](appendix/reference.md)

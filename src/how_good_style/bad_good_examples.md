@@ -467,16 +467,3 @@ thisVisitSection.cellList.append(thisTableViewCell)
 ![多参数时换行提高可读性](../assets/img/multiple_para_add_new_line.png)
 
 使得能看清楚具体的参数名和参数值。
-
-## 整理：代码中常见英文单词的缩写
-
-对于在给变量、函数等起名时，为了避免名字过长，可以考虑将相关英文单词简写。
-
-下面列出一些常见的简写，供参考：
-
-| 英文全称 | 英文简写 | 举例 | 说明 |
-| ------ | ------- | --- | --- |
-| current | cur 或 curr | curItem 当前的项 | |
-| index | idx | curIdx 当前的索引 | |
-| previous | prev | prevItem 前一个项 | |
-
