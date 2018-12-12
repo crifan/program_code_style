@@ -1,0 +1,19 @@
+{
+  "title": "编程习惯和代码风格",
+  "description": "介绍为何要和如何形成良好的编程习惯和代码风格",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "program_code_style"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/program_code_style/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/program_code_style/pdf/program_code_style.pdf"
+    }
+  }
+}
